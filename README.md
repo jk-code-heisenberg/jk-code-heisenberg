@@ -22,5 +22,5 @@ Exploring and building AI-powered products, automation solutions, and digital to
 
 ### Connect
 
-- LinkedIn: [Jayakrishnan T N](YOUR_LINKEDIN_URL)
+- LinkedIn: [Jayakrishnan T N](www.linkedin.com/in/jkjaikrishna)
 - Code Alone Labs: Coming soon
