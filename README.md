@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Jayakrishnan T N 👋
 
-<!--
-**jk-code-heisenberg/jk-code-heisenberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Senior Software Engineer • Product Builder • AI Enthusiast
 
-Here are some ideas to get you started:
+I’m a Senior Software Engineer and Product Builder focused on building scalable software, designing robust architectures, and exploring practical applications of AI.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+- Full-Stack Development
+- Software Architecture & System Design
+- React.js • Next.js • Node.js • TypeScript
+- PostgreSQL • REST APIs • Microservices
+- Generative AI & LLM-powered applications
+- AI-assisted software development
+- Business Process Automation
+
+### Currently building
+
+🚀 **Code Alone Labs**
+
+Exploring and building AI-powered products, automation solutions, and digital tools for real-world businesses.
+
+### Connect
+
+- LinkedIn: [Jayakrishnan T N](YOUR_LINKEDIN_URL)
+- Code Alone Labs: Coming soon
